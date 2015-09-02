@@ -20,7 +20,7 @@ A curated list of resources and references relevant to the research we are doing
 
 ## Patrolling
 * [A Survey on Multi-robot Patrolling Algorithms (2011)](http://link.springer.com/chapter/10.1007%2F978-3-642-19170-1_15)
-* [Multi-robot area patrol under frequency constraints (2009)](http://u.cs.biu.ac.il/~agmon/ElmaliahAMAI09.pdf 
+* [Multi-robot area patrol under frequency constraints (2009)](http://u.cs.biu.ac.il/~agmon/ElmaliahAMAI09.pdf) 
 * [A Multi-Robot System with Continuous Area Sweeping Tasks (2006)](http://www.cs.utexas.edu/~ai-lab/pubs/ICRA06.pdf)
 * [Multi-Robot Exploration Controlled by a Market Economy (2002)](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1174&context=robotics)
 
