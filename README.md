@@ -4,15 +4,21 @@ A curated list of resources and references relevant to the research we are doing
 
 ## Table of Contents
 
-- [General Review](#general-review) 
+- [General Review](#general-review)
+- [Framework](#framework) 
 - [Coverage](#coverage)
 - [Patrolling](#patrolling)
 - [Multi Agent Path Planning](#multi-agent-path-planning)
-- [Swarm Simulator](#swarm-simulator)
 - [Localization](#localization)
 
 ## General Review
 * [An Extensive Research of review in Swarm Robotics (2009)](http://digi.physic.ut.ee/mw/images/d/db/Review.pdf)
+
+## Framework
+* [ROS: an open-source Robot Operating System](https://www.willowgarage.com/sites/default/files/icraoss09-ROS.pdf)
+* [SwarmSimX and TeleKyb: Two ROS-integrated Software Frameworks for Single- and Multi-Robot Applications](http://www.kyb.tuebingen.mpg.de/fileadmin/user_upload/files/publications/2013/ICRA-2013-Workshop-Laechele.pdf)
+* [Robotics software frameworks for multi-agent robotic systems development](http://www.sciencedirect.com/science/article/pii/S0921889012000322)
+* [Caffe: Convolutional Architecture for Fast Feature Embedding](http://arxiv.org/abs/1408.5093)
 
 ## Coverage
 * [Sensor Coverage of Unknown Environments by Robot Swarms Using Limited Local Sensing (2015)]()
@@ -30,7 +36,5 @@ A curated list of resources and references relevant to the research we are doing
 * [MAPP: a Scalable Multi-Agent Path Planning Algorithm (2011)](https://www.jair.org/media/3370/live-3370-5850-jair.pdf)
 * [Distributed Path Consensus Algorithms](http://www.seas.upenn.edu/~subhrabh/nonWebsite/IterPlanning/tech_report_FULL.pdf)
 * [Efficient Multi Agent Path Planning (2001)](http://luthuli.cs.uiuc.edu/~daf/papers/pathplan.pdf)
-
-## Swarm Simulator
 
 ## Localization
