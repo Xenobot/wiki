@@ -15,7 +15,7 @@ A curated list of resources and references relevant to the research we are doing
 * [An Extensive Research of review in Swarm Robotics (2009)](http://digi.physic.ut.ee/mw/images/d/db/Review.pdf)
 
 ## Coverage
-* [Sensor Coverage of Unknown Environments by Robot Swarms Using Limited Local Sensing (2015)]()
+* [Sensor Coverage of Unknown Environments by Robot Swarms Using Limited Local Sensing (2015)](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7139670)
 * [Multi-robot coverage and exploration on Riemannian manifolds with boundaries (2015)](http://ijr.sagepub.com/content/33/1/113)
 
 ## Patrolling
